@@ -26,6 +26,9 @@
         "pid": "0xED50",
         "vid": "0x50DD"
     },
+    "bootmagic": {
+        "matrix": [ 3, 3 ]
+    },
     "rgblight": {
         "led_count": 10,
         "sleep": true,
