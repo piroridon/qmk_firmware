@@ -1,7 +1,5 @@
 # editor50
 
-![editor50](imgur.com image replace me!)
-
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [piroridon](https://github.com/piroridon)
